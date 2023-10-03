@@ -20,7 +20,7 @@ Mi trayectoria abarca una amplia gama de experiencias académicas y laborales qu
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![POO](https://img.shields.io/badge/{POO}-E34F26?style=for-the-badge&logo=POO&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</br>
-![Rest-api](https://img.shields.io/badge/REST-API-00BFFF?style=for-the-badge&logo=REST-API&logoColor=white)
+![Rest-api](https://img.shields.io/badge/REST%20API-00BFFF?style=for-the-badge&logo=API&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
