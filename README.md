@@ -18,12 +18,16 @@ Mi trayectoria abarca una amplia gama de experiencias académicas y laborales qu
 ![Css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-FFC0CB?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![POO](https://img.shields.io/badge/{POO}-E34F26?style=for-the-badge&logo=POO&logoColor=white)
+![POO](https://img.shields.io/badge/{POO}-E34F26?style=for-the-badge&logo=Poo&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</br>
 ![Rest-api](https://img.shields.io/badge/REST%20API-00BFFF?style=for-the-badge&logo=API&logoColor=white)
+![git](https://img.shields.io/badge/git-FF5733?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.JS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite3](https://img.shields.io/badge/SQLite3-white?style=for-the-badge&logo=SQLite3&logoColor=B0C4DE)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=GoogleCloud&logoColor=8A2BE2)
+
 
 <!--
 **2022matias/2022matias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
