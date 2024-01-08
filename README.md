@@ -27,6 +27,7 @@ Mi trayectoria abarca una amplia gama de experiencias académicas y laborales qu
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite3-white?style=for-the-badge&logo=SQLite3&logoColor=B0C4DE)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-000000?style=for-the-badge&logo=GoogleCloud&logoColor=8A2BE2)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=8A2BE2)
 
 
 <!--
